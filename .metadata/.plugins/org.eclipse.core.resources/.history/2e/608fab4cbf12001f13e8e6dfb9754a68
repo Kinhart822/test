@@ -1,0 +1,18 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package fa.training.problem03.dao;
+
+import java.util.Map;
+
+import fa.training.problem03.models.OrderDetail;
+
+public interface OrderDetailDAO {
+    String saveOrderDetail(OrderDetail orderDetail);
+    Map<String, Double> reportOfSale();
+
+}

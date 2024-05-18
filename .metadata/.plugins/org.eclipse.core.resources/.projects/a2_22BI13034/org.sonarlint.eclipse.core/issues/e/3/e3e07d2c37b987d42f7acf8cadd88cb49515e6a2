@@ -1,0 +1,20 @@
+
+c
+java:S3740"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740*"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+d
+java:S3740‚"/Provide the parametrized type for this generic.b 2a29178a57901ddb90f15e2026465103h
+d
+java:S3740„"/Provide the parametrized type for this generic.b cabc0b3c65c3d25adfb69cc0517e5b3eh
+™
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+‹
+java:S1149„"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".b cabc0b3c65c3d25adfb69cc0517e5b3eh
+o	java:S125"<This block of commented-out lines of code should be removed.b 57c378db70d2154a878893e3468cd90eh
+p	java:S125‡"<This block of commented-out lines of code should be removed.b 89f4145ae1cf4a9cd387e941db42475bh
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.8½ü¸¼ø1b 796836c8e8b3ca2801f838e8b92536f3h
+k
+java:S3740Î"/Provide the parametrized type for this generic.8öÛÇ¼ø1b cabc0b3c65c3d25adfb69cc0517e5b3eh
+’
+java:S1149Î"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".8öÛÇ¼ø1b cabc0b3c65c3d25adfb69cc0517e5b3eh

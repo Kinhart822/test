@@ -1,0 +1,6 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 76f170b5ab65570de77bb790c2224681h
+…
+java:S34574"Q%n should be used in place of \n to produce the platform-specific line separator.b 5b1b475f7bdc710da0cc1f67119f83a9h
+u
+java:S1126>"AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h

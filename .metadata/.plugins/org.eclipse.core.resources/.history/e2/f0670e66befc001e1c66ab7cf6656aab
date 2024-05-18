@@ -1,0 +1,40 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package session5;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
+public class SetDemoObject {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 Set<Student> strSet = new HashSet<>();
+	        strSet.add(new Student("Nhung"));
+	        strSet.add(new Student("Nam"));
+	        strSet.add(new Student("Tung"));
+	        strSet.add(new Student("Nhung"));
+
+
+	        Set<Student> strSet2 = new HashSet<>(strSet);
+	        List<Student> list = new ArrayList<>(strSet);
+
+	        System.out.println(strSet2);
+
+	        list.add(new Student("Nhung"));
+	        System.out.println(list);
+
+	        for(Student run : strSet){
+	            System.out.println(run);
+	        }
+
+	}
+
+}

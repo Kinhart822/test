@@ -1,0 +1,46 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package session5;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ArrayListDemo {
+	
+	public static void main(String[] args) {
+		// List<Integer> integers = new ArrayList<>();
+		List listItems = new ArrayList<>();
+		listItems.add(1);
+		listItems.add(true);
+		listItems.add("Huy");
+		
+		for (Object e: listItems) {
+//			Double aDouble = (Double) e;
+//			System.out.println(aDouble);
+			System.out.println(e);
+			
+		}
+
+		
+		List<Integer> integers0ld = new ArrayList<>();
+
+		List<Integer> integers = new ArrayList<>();
+		integers.add(1);   	// index = 0
+		integers.add(8);	// index = 1
+		integers.add(4);	// index = 2
+		integers.add(12);	// index = 3
+		
+		integers.add(1, 40);
+					// index, element
+		integers.addAll(integers0ld);
+		System.out.print(integers);
+
+		
+	}
+	
+}

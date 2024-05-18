@@ -1,0 +1,57 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package jplb.l.a06.opt1;
+
+import java.util.Scanner;
+
+public class Ex3 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+
+		int size;
+		do {
+		    System.out.print("Number of elements:  ");
+		    size = input.nextInt();
+		    while (size <= 0 || size >= 1000) {
+		        System.out.print("Invalid number. Please enter a number between 1 and 999: ");
+		        size = input.nextInt();
+		    }
+		} while (size <= 0);
+		
+		float[] javaFinalMark = new float[size];
+		
+		for (int i = 0; i < size; i++) {
+			javaFinalMark[i] = input.nextFloat();
+		}
+		
+		System.out.print("Original Array: [");
+		for (int i = 0; i < size; i++) {
+		    if (i != size - 1) {
+		        System.out.print(javaFinalMark[i] + ", ");
+		    } else {
+		        System.out.println(javaFinalMark[i] + "]");
+		    }
+		}
+				
+		float n = javaFinalMark[0]; 
+	    boolean haveDuplicate = false;
+	    for (int i = 1; i < javaFinalMark.length; i++) {
+	    	for (int j = i + 1; j < javaFinalMark.length; j++) {
+                if (javaFinalMark[i] == javaFinalMark[j]) {
+                    System.out.println("Duplicate values: " + javaFinalMark[i]);
+                    haveDuplicate = true;
+            }
+        }
+        if(!haveDuplicate) {
+    	    System.out.println("Have no duplicate value.");
+        }
+	  }
+	}
+}
+	    

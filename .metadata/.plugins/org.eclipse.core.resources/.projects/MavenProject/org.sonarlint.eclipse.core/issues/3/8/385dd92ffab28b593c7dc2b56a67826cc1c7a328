@@ -1,0 +1,13 @@
+
+¬
+java:S3577"çRename class "CalculatorText" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'b fc978bcc9dc632a5424a38f059feb56bh
+R
+java:S5786"Remove this 'public' modifier.b 4c9184f37cff01bcdc32dc486ec36961h
+R
+java:S5786%"Remove this 'public' modifier.b 4c9184f37cff01bcdc32dc486ec36961h
+R
+java:S57867"Remove this 'public' modifier.b 4c9184f37cff01bcdc32dc486ec36961h
+R
+java:S5786M"Remove this 'public' modifier.b 4c9184f37cff01bcdc32dc486ec36961h
+R
+java:S5786"Remove this 'public' modifier.b 4c9184f37cff01bcdc32dc486ec36961h

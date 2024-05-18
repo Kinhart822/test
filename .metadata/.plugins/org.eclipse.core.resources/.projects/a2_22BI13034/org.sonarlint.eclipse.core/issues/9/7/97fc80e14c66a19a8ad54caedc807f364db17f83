@@ -1,0 +1,50 @@
+
+d
+java:S3740ï"/Provide the parametrized type for this generic.b 2a29178a57901ddb90f15e2026465103h
+Ç
+java:S1192ê"MDefine a constant instead of duplicating this literal "Invalid data" 6 times.b be46115479a4ec4a31ca9da8ac7f5d8ah
+å	java:S135S"YReduce the total number of break and continue statements in this loop to use at most one.b 901889f4f34f8ca18ac2f53d1fed346eh
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 76f170b5ab65570de77bb790c2224681h
+î
+java:S1149•"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".b 44f2f3b7f27e0930b2cc3f6340e0ca94h
+y
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.b a81259cef8e959c624df1d456e5d3297h
+^	java:S1066"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106C"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106R"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106g"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106m"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ö"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+w
+java:S1659ü"BDeclare "phone" and all following declarations on a separate line.b f7a42fe7211f98ac7a60a285ac3a9e87h
+_	java:S106°"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106•"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106®"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106´"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106∞"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106√"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106≈"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106∆"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106»"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106…"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106›"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Â"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ˇ"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+]
+java:S2201Å"(The return value of "trim" must be used.b 9e2cd3a49272eb4863464c187878b93dh
+l
+java:S3972Ñ"7Move this "if" to a new line or add the missing "else".b 39c8942e1038872a822c0dc75eedbde3h
+[
+java:S1168Ö"&Return an empty array instead of null.b 37a6259cc0c1dae299a7866489dff0bdh
+_	java:S106ò"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ô"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106õ"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106®"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106©"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106™"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ø"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106≤"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+[
+java:S1452Ω"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+v
+java:S1126˛"AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h

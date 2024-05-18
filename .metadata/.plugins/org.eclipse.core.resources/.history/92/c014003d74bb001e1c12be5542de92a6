@@ -1,0 +1,62 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package homeWork;
+
+class MyStack {
+    char[] character;
+    int capacity;
+    int top;
+
+    public MyStack(int capacity) {
+        this.capacity = capacity;
+        this.character = new char[capacity];
+        this.top = -1;
+    }
+
+    public boolean isEmpty() {
+        return this.top == -1;
+    }
+
+    public boolean isFull() {
+        return this.top == capacity - 1;
+    }
+
+    public void push(char value) throws Exception {
+        if (isFull()) {
+            throw new Exception("The stack is full. Cannot push new value");
+        }
+        top += 1;
+        character[top] = value;
+    }
+
+    public char pop() throws Exception {
+        if (isEmpty()) {
+            throw new Exception("The stack is empty. Cannot pop new value");
+        }
+        char value = character[top];
+        character[top] = nu0;
+
+        top -= 1;
+        return value;
+    }
+}
+
+public class Ex2 {
+    public static void main(String[] args) throws Exception {
+        String input = "FSOFT ACADEMY";
+        MyStack myStack = new MyStack(input.length());
+
+        for (int i = 0; i < input.length(); i++) {
+            myStack.push(input.charAt(i));
+        }
+
+        while (!myStack.isEmpty()) {
+            System.out.print(myStack.pop());
+        }
+    }
+}

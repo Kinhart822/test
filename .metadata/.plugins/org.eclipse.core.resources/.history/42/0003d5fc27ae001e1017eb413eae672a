@@ -1,0 +1,63 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package practice;
+
+import java.util.Scanner;
+
+public class Practice10 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		int size;
+		do {
+		    System.out.print("Number of elements:  ");
+		    size = input.nextInt();
+		    while (size <= 0 || size >= 100 || size % 2 != 0) {
+		        System.out.print("Invalid number");
+		        size = input.nextInt();
+		    }
+		} while (size <= 0 && size % 2 != 0);
+		
+        int[] array = new int[size];
+
+        for (int i = 0; i < size; i++) {
+            array[i] = input.nextInt();
+        }
+
+        System.out.print("Original Array: [");
+        for (int i = 0; i < size; i++) {
+            if (i != size - 1) {
+                System.out.print(array[i] + ", ");
+            } else {
+                System.out.println(array[i] + "]");
+            }
+        }
+        
+        int[] sum = new int[size - 1];
+
+        for (int i = 0; i < size; i++) {
+            sum[i] = array[i]+ array[i+1];    	 
+        }
+
+        System.out.print("[");
+        for (int i = 0; i < sum.length; i++) {
+            if (i != sum.length - 1) {
+                System.out.print(sum[i] + ", ");
+            } else {
+                System.out.println(sum[i] + "]");
+            }
+        }
+       
+        
+        
+
+
+	}
+
+}

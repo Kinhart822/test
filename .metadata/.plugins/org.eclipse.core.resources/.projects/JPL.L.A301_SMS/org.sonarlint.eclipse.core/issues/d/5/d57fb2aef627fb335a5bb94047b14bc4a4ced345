@@ -1,0 +1,53 @@
+
+_	java:S106ó"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+q
+java:S1854/"=Remove this useless assignment to local variable "customers".b d38181c8f22d361042515e4973f47e4eh
+_	java:S106å"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Œ"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+}
+java:S2259ó"HA "NullPointerException" could be thrown; "parsedDate" is nullable here.b 3bea5ef95cfa1b4a1a3330bbb2fd1e92h
+^	java:S106="+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106¿"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106¬"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ı"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Û"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106|"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106¬"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S1064"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ﬂ"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+Ü
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.b fad58de7366495db4650cfefac2fcd61h
+_	java:S106à"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+~
+java:S2259´"IA "NullPointerException" could be thrown; "parsedDate1" is nullable here.b b5f393b97e79085df305dc8f02cc985dh
+^	java:S106F"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106m"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+r
+java:S1854‡"=Remove this useless assignment to local variable "lineItems".b d38181c8f22d361042515e4973f47e4eh
+^	java:S106O"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ê"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+r
+java:S1854ã"=Remove this useless assignment to local variable "employees".b d38181c8f22d361042515e4973f47e4eh
+^	java:S106]"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ó"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106õ"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ö"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+o
+java:S1854‚":Remove this useless assignment to local variable "orders".b d38181c8f22d361042515e4973f47e4eh
+_	java:S106À"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Á"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106)"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106†"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ª"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ä"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Â"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106‘"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106î"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ø"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+q
+java:S1854∂"<Remove this useless assignment to local variable "products".b d38181c8f22d361042515e4973f47e4eh
+_	java:S106›"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Å"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106©"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106≥"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

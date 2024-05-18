@@ -1,0 +1,9 @@
+
+ê
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "conn".b 1d35424f753d90b30340867bb6b24cddh
+n
+java:S1118":Add a private constructor to hide the implicit public one.b 9a2554a0453e1a346730bcc02454bd1ah
+a
+java:S4925"-Remove this "Class.forName()", it is useless.b c78ca533dd9db31dc1aebe0b40b92535h
+j
+java:S6437"6Revoke and change this password, as it is compromised.b 5f4dcc3b5aa765d61d8327deb882cf99h

@@ -1,0 +1,19 @@
+
+€
+java:S1192"LDefine a constant instead of duplicating this literal "employee_id" 3 times.b fb2736ccc1c402e23b7d91d663dc24b3h
+ƒ
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b fb7527ccfc764faa7d488233c9a88cdah
+S
+java:S69051"Don't use the query "SELECT *".b 3eb290d03794a7d719b05f816e825c0dh
+
+java:S1192"KDefine a constant instead of duplicating this literal "order_date" 3 times.b 08b0716efb364b4d0c14a746f8903020h
+}
+java:S1192"IDefine a constant instead of duplicating this literal "order_id" 3 times.b 0d2d7f2f5b694b0147a70c71ab2d223dh
+z
+java:S1192 "FDefine a constant instead of duplicating this literal "total" 3 times.b d6f0a25451b7fa16dde01d65b0942f8fh
+€
+java:S1192"LDefine a constant instead of duplicating this literal "customer_id" 3 times.b 2bb3d1c80d84191e131c4baf948db8aah
+f
+java:S1135Q"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+T
+java:S6905¬"Don't use the query "SELECT *".b d909ff985bf94db45b0e99b5e36d084dh

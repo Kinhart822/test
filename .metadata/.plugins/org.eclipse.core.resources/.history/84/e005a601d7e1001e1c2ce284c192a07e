@@ -1,0 +1,26 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package a1_22BI13034;
+
+/**
+ * @overview Person represents someone join into the seminar
+ * @attributes
+ *  id 		Integer		int
+ *  name 	String 
+ *  phone	MobilePhone	 
+ * @object a typical Person object is p=<id,name>, where id(i), name(n)
+ * @abstract_properties
+ *  mutable(id)=false /\ optional(id)=false /\ min(id)=1 /\
+ *  mutable(name)=true /\ optional(name)=false /\ length(name)=30 /\
+ *  mutable(phone)=true /\ optional(phone)=true 
+ */
+public class Person {
+	// state space - attributes
+	
+	// methods -
+}

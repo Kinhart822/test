@@ -1,0 +1,19 @@
+
+ˆ	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b 940b5c750ae1fc51229cfc2ae2674328h
+‹	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b 9bea82def865d4d0e499eb252805f127h
+‹	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b 69dfcb072307d1f23d6dae1ab92fffbfh
+	java:S116"SRename this field "order_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b 69dfcb072307d1f23d6dae1ab92fffbfh
+ˆ	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b 048891de717b11fda696381ec4d1489fh
+e
+java:S1128
+"*Remove this unused import 'java.sql.Date'.8ØüÉâ÷1b 5e50a0e4c9a8efc6f5be819330003d4ch
+ˆ	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b 38147152644ffe1a2fb5d691953c0cc5h
+ˆ	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b a13c3daa980d9cafe9fac3b5941fdf2dh
+	java:S116"URename this field "product_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b 9bea82def865d4d0e499eb252805f127h
+‹	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b 69dfcb072307d1f23d6dae1ab92fffbfh
+ˆ	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b 411572fa6cc9e1212d4618ffc81eb21ch
+‹	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b db19bd0eefd9725ea5e44a2b8d92e5bdh
+	java:S116"URename this field "unit_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b db19bd0eefd9725ea5e44a2b8d92e5bdh
+‹	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b 9bea82def865d4d0e499eb252805f127h
+‹	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b db19bd0eefd9725ea5e44a2b8d92e5bdh
+ˆ	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ØüÉâ÷1b 702730c7b1ce45e47c1346ac70b4f625h

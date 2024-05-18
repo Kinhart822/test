@@ -1,0 +1,4 @@
+
+Š
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".b e41bbf0791f8e0c210c57663d1bccc20h
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.8š¦º¼ø1b 796836c8e8b3ca2801f838e8b92536f3h

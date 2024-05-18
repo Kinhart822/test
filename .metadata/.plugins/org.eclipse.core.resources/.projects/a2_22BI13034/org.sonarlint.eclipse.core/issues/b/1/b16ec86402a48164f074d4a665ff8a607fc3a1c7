@@ -1,0 +1,51 @@
+
+c
+java:S3740"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740!"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740""/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740:"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740?"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740?"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740@"/Provide the parametrized type for this generic.b 2a29178a57901ddb90f15e2026465103h
+c
+java:S3740d"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740n"/Provide the parametrized type for this generic.b 2a29178a57901ddb90f15e2026465103h
+d
+java:S3740ò"/Provide the parametrized type for this generic.b cabc0b3c65c3d25adfb69cc0517e5b3eh
+d
+java:S3740ù"/Provide the parametrized type for this generic.b 2a29178a57901ddb90f15e2026465103h
+ã	java:S127}"XRefactor the code in order to not assign to this loop counter from within the loop body.b 865c0c0b4ab0e063e5caa3387c1a8741h
+ï
+java:S1319ò"`The type of "h" should be an interface such as "Map" rather than the implementation "Hashtable".b cabc0b3c65c3d25adfb69cc0517e5b3eh
+ô
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+ô
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+ô
+java:S1149:"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+ô
+java:S1149?"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+ô
+java:S1149d"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+ã
+java:S1149ò"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".b cabc0b3c65c3d25adfb69cc0517e5b3eh
+î
+java:S1149ı"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".b 44f2f3b7f27e0930b2cc3f6340e0ca94h
+Ü
+java:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.b e6d9c5831845c1c00a6b75d2250e7a71h
+X
+java:S1659h"$Declare "newDoc" on a separate line.b 4d430734633e72eb9d69378f0bc7f075h
+o
+java:S1119n";Refactor the code to remove this label and the need for it.b c4540d3222d43c398e55b47cb3846a40h
+Q
+java:S2225É"Return empty string instead.b 37a6259cc0c1dae299a7866489dff0bdh
+î	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.8Œ—πº¯1b 796836c8e8b3ca2801f838e8b92536f3h

@@ -1,0 +1,63 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package fa.training.utils;
+import fa.training.problem03.dao.*;
+
+import java.sql.SQLOutput;
+import java.util.Scanner;
+
+public class Main {
+	OrderDAO orderDAO = new OrderDAOImpl();
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		Main management = new Main();
+
+	    boolean flag = true;
+	    while (flag) {
+	    showMenu();
+	    System.out.println("Enter your's choice");
+	    int choice = scanner.nextInt();
+
+        switch (choice) {
+        case 1: {
+        	management.orderDAO.save(order);
+            break;
+	    }
+	    case 2: {
+	    	System.out.println("Enter customer ID");
+	    	String customerID = scanner.next();
+	        management.orderDAO.findOrderByCustomer(customerID);
+	        break;
+	    }
+	    case 3: {
+	       break;
+	    }
+	    case 4: {
+	    	System.out.println("Enter customer ID");
+	        int customerID = scanner.nextInt();
+	        double total = management.orderDAO.computeOrderTotal(customerID);
+	        System.out.println("Amount of order: " + total);
+	        break;
+	    }
+	    case 5: {
+	    	flag = false;
+	    }
+	            }
+	        }
+	    }
+
+	    private static void showMenu() {
+	        System.out.println("1) List all customers consist of customer id, customer name in the database");
+	        System.out.println("2) List all orders consist of order id, order date, customer id, employee id, total for a customer");
+	        System.out.println("3) List all lineitems for an order, returns a list with all line items for a given order id");
+	        System.out.println("4) Compute order total, returns a list with a row containing the");
+	        System.out.println("5) Exit application");
+	    }
+
+}

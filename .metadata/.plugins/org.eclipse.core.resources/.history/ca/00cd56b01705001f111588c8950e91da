@@ -1,0 +1,84 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package fa.training.main;
+
+import java.sql.SQLException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.List;
+import fa.training.dao.OrderDAOImpl;
+import fa.training.entities.Order;
+
+public class SaleManagement {
+
+	public static void main(String[] args) throws SQLException, ClassNotFoundException{
+
+		OrderDAOImpl orderDAO = new OrderDAOImpl();
+
+//  												------------------- Order -------------------
+		// Retrieve 
+		Order order = orderDAO.get(1);
+		System.out.println(order);
+		
+		// Retrieve All
+		List<Order> orders = new ArrayList<>();
+
+		OrderDAOImpl orderDAO1 = new OrderDAOImpl();
+		orders = orderDAO1.getAll();
+		for (Order order1 : orders) {
+			System.out.println(order1);
+		}
+		
+		// INSERT INTO dbo.Orders
+		String dateString = "2024-04-28"; 
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+		java.util.Date parsedDate = null;
+		try {
+			parsedDate = sdf.parse(dateString);
+		} catch (ParseException e) {
+			e.printStackTrace();
+		}
+		java.sql.Date sqlDate = new java.sql.Date(parsedDate.getTime());
+		order = new Order(4, sqlDate, 2, 3, 500.00);
+		order = new Order(5, sqlDate, 3, 3, 500.00);
+		try {
+			boolean save = orderDAO.insert(order);
+			System.out.println(save);
+		} catch (SQLException e1) {
+			e1.printStackTrace();
+		}
+		
+		// UPDATE dbo.Orders
+		String dateString1 = "2024-04-29"; 
+		SimpleDateFormat sdf1 = new SimpleDateFormat("yyyy-MM-dd");
+		java.util.Date parsedDate1 = null;
+		try {
+			parsedDate1 = sdf1.parse(dateString1);
+		} catch (ParseException e) {
+			e.printStackTrace();
+		}
+		java.sql.Date sqlDate1 = new java.sql.Date(parsedDate1.getTime());
+		order = new Order(5, sqlDate1, 1, 3, 600.00);
+		try {
+			boolean resultSave = orderDAO.update(order);
+			System.out.println(resultSave);
+		} catch (SQLException e2) {
+			e2.printStackTrace();
+		}
+		
+		// DELETE 
+		order = orderDAO.get(4);
+		try {
+			boolean resultSave1 = orderDAO.delete(order);
+			System.out.println(resultSave1);
+		} catch (SQLException e3) {
+			e3.printStackTrace();
+		}
+	}
+}

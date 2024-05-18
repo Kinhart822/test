@@ -1,0 +1,6 @@
+
+|
+java:S1075"ARefactor your code to get this URI from a customizable parameter.8òû£à÷1b e0b75941f182639339792056ba51eba7h
+e	java:S106("+Replace this use of System.out by a logger.8œ‡’à÷1b bb1c3f2ea781263d3a2bb92b06a2061fh
+€
+java:S1226"EIntroduce a new variable instead of reusing the parameter "filePath".8´é¦à÷1b 47826cacc65c665212b821e6ff80b9b0h

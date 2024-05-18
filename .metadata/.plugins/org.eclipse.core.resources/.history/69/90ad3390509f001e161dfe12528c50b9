@@ -1,0 +1,33 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package jplb.l.a05.opt1;
+
+import java.util.Scanner;
+
+public class Ex1 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		int n = input.nextInt();
+		
+		while(n < 1 || n > 1000) {
+			System.out.print("Only accept number between 1 - 1000");
+			n = input.nextInt();
+		}
+		while(n >= 1 || n <= 1000) {
+			n %= 2;
+			System.out.print(n + " " );
+			n = input.nextInt();
+
+		}
+		
+	}	
+}
+
+

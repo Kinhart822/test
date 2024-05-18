@@ -1,0 +1,11 @@
+
+Ñ	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b fa5408157b8bdaf9e6e19a1de67b571fh
+Ñ	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 706672a343588222fd8174dcce80bfa2h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 76f170b5ab65570de77bb790c2224681h
+Å	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 790fcd42669ed424d060172ae43b6aafh
+u
+java:S1126R"AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h
+u
+java:S1126["AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h
+f
+java:S6126u"2Replace this String concatenation with Text block.b 3bf3e2b7cfb1c69b36a4985658b5f1e5h

@@ -1,0 +1,79 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package session7;
+
+import java.util.Scanner;
+
+public class DemoString {
+
+	public static void main(String[] args) {
+		// Khai báo string:
+		
+			// Cách 1 : sử dụng literal
+		String myName = "Phạm Hoàng Anh";
+		
+			// String có 1 ký tự vẫn dùng cú pháp ""
+		String bloodType = "A";
+		
+			// 'String có 1 ký tự' khác hoàn toàn với '1 ký tự'
+			// String có thể không có ký tự -> String rỗng
+		String location = "";
+				
+			// Cách 2: khai báo thông qua new
+		String myPet = new String("Lion");
+				
+		// Input String
+		Scanner scanner = new Scanner(System.in);
+		System.out.print("Please input your name: ");
+		String name = scanner.nextLine(); // Read a String from keyboard
+
+		System.out.println("Your name is: " + name);
+		
+		// Nhập họ và tên
+		Scanner input = new Scanner(System.in);
+		System.out.print("Enter your first name: ");
+		String firstName1 = input.nextLine(); 
+		System.out.print("Enter your last name: ");
+		String lastName1 = input.nextLine(); 
+		System.out.println("Your name is: " + name);
+		String fullName = firstName1 + " " + lastName1;
+		String fullName1 = firstName1.concat("").concat(lastName1);
+		System.out.print("Hello, " + fullName1);
+		
+		// String concatenation 
+		String firstName = "John";
+		String lastName = "Doe";
+		System.out.println(firstName + " " + lastName);
+		System.out.println(firstName.concat(lastName));
+		
+		// Phép toán cộng
+		System.out.println(1 + 2);
+		System.out.println("a" + "b");
+		System.out.println("a" + "b" + 3);
+		System.out.println(1 + 2 + "c");
+		System.out.println(1 + "c" + 2);
+		System.out.println("c" + 1 + 2);
+		System.out.println("c" + (1 + 2));
+		
+		// Kí tự đặc biệt
+							//		| Escape character | Result |
+							//		|	     \"		   |   "    |
+							//		|	     \\ 	   | \    |
+//		String str = "My favorite book is "Twilight" by Stephanie Meyer";  (Does not compile)
+		
+		String str = "My favorite book is \"Twilight\" by Stephanie Meyer";
+		System.out.println(str);
+		
+		String workFiles= "My work files are in D:\\Work Projects\\java";
+		System.out.println(workFiles);
+	
+	
+	
+	}
+
+}

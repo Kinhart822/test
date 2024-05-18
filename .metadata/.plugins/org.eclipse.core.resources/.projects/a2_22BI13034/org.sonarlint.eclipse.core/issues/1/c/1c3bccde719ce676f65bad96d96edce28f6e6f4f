@@ -1,0 +1,38 @@
+
+c
+java:S3740"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740."/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740K"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740L"/Provide the parametrized type for this generic.b 2af99bc28e2be6580a13b1048cde1709h
+c
+java:S3740m"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+d
+java:S3740А"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+d
+java:S3740Э"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+d
+java:S3740Ю"/Provide the parametrized type for this generic.b 2af99bc28e2be6580a13b1048cde1709h
+С
+java:S4144А"\Update this method so that its implementation is not identical to "quickSortAsc" on line 46.b e6ee0eaa09ae3c68020cd274ebd5abf1h
+Щ
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+Щ
+java:S1149."eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+Щ
+java:S1149K"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+Щ
+java:S1149m"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+Ъ
+java:S1149А"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+Ъ
+java:S1149Э"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+n
+java:S1118":Add a private constructor to hide the implicit public one.b 2808a34767e19b842d906ab8ab6264c6h
+e
+java:S1144."1Remove this unused private "quickSortAsc" method.b 3bf216f7eb598becbd4b8bb7238e426ch
+e
+java:S1144K"1Remove this unused private "partitionAsc" method.b a1e3818c5588295704cec13c96d42827h
+Ф	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.8ньєЉш1b 796836c8e8b3ca2801f838e8b92536f3h

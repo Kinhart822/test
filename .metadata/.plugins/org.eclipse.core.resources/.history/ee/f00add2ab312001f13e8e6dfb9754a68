@@ -1,0 +1,35 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package fa.training.problem02;
+
+import java.util.Scanner;
+
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+
+public class ReverselntTest {
+
+	@Test
+	@DisplayName("TC001 - add 2 numbers")
+	public void TC001_reverse_success() {
+		// 1 Input
+		int a=0;		
+		// 2 Expected result
+		double expectedResult = 10;
+		
+		// 3 Actual result
+		calculator calculator = new calculator();
+		double actualResult = calculator.calculate(a, b, action);
+		
+		// 4 Compare actual vs expected => (equals) success / failed
+		Assertions.assertEquals(expectedResult, actualResult);;
+	}
+    
+    
+}

@@ -1,0 +1,18 @@
+
+c
+java:S3740%"/Provide the parametrized type for this generic.b 2a29178a57901ddb90f15e2026465103h
+c
+java:S3740E"/Provide the parametrized type for this generic.b 2a29178a57901ddb90f15e2026465103h
+P
+java:S1643V"Use a StringBuilder instead.b 8277e0910d750195b448797616e091adh
+n
+java:S1118":Add a private constructor to hide the implicit public one.b bf48e5e2e65225ac4cc3d7a0ebbbd09bh
+V
+java:S1659N""Declare "line" on a separate line.b 6438c669e0d0de98e6929c2cc0fac474h
+‚
+java:S2272e"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.b d0cab90d8d20d57e2f2b9be52f7dd25dh
+n
+java:S1161j":Add the "@Override" annotation above this method signatureb 0f6969d7052da9261e31ddb6e88c136eh
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.8Ãë·¼ø1b 796836c8e8b3ca2801f838e8b92536f3h
+‡
+java:S2095S"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.8Ãë·¼ø1b 8dfc42e7a2669ecc1ae91bff56e5005bh

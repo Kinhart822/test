@@ -1,0 +1,28 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package fa.training.problem03.dao;
+
+public class OrderDAOImpl implements OrderDao{
+	public String save(Order order) {
+        String sql = "INSERT INTO dbo.Orders (order_id, customer_id, order_date, required_date, shipped_date, ship_address) " +
+                "VALUES (?, ?, ?, ?, ?, ?)";
+        try (PreparedStatement preparedStatement = connection.prepareStatement(sql)) {
+            preparedStatement.setInt(1, order.getOrderId());
+            preparedStatement.setString(2, order.getCustomerId());
+            preparedStatement.setDate(3, new java.sql.Date(order.getOrderDate().getTime()));
+            preparedStatement.setDate(4, new java.sql.Date(order.getRequiredDate().getTime()));
+            preparedStatement.setDate(5, new java.sql.Date(order.getShippedDate().getTime()));
+            preparedStatement.setString(6, order.getShipAddress());
+            preparedStatement.executeUpdate();
+            return "success";
+        } catch (SQLException e) {
+            e.printStackTrace();
+            return "fail";
+        }
+    }
+}

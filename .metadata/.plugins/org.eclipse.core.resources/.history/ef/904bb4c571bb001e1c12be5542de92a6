@@ -1,0 +1,60 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+public class Ex1 {
+
+	static class Node {
+        String data;
+        Node next;
+
+        Node(String data) {
+            this.data = data;
+        }
+    }
+
+    static class Stack {
+        Node top;
+
+        void push(String data) {
+            Node newNode = new Node(data);
+            newNode.next = top;
+            top = newNode;
+        }
+
+        String pop() {
+            if (top != null) {
+                String data = top.data;
+                top = top.next;
+                return data;
+            }
+            return null;
+        }
+
+        boolean isEmpty() {
+            return top == null;
+        }
+    }
+    
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String operations = "E A S * Y * Q U E * * * S T * * * I O * N * * *";
+        String[] ops = operations.split(" ");
+
+        Stack stack = new Stack();
+
+        for (String op : ops) {
+            if (op.equals("*")) {
+                if (!stack.isEmpty()) {
+                    System.out.println("Pop: " + stack.pop());
+                }
+            } else {
+                stack.push(op);
+            }
+        }
+	}
+
+}

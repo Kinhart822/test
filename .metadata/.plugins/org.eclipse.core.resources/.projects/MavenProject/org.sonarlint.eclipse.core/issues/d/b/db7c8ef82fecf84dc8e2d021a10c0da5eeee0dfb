@@ -1,0 +1,18 @@
+
+y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.b 15452a9b0f2356c3dabe720a67728b3dh
+€	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.b 4880766485de7821db13940395a913c8h
+2
+java:S1220""Move this file to a named package.h
+v
+java:S2184"BCast one of the operands of this addition operation to a "double".b 26b17225b626fb9238849fd60eabdf60h
+y
+java:S2184"ECast one of the operands of this subtraction operation to a "double".b 336d5ebc5436534e61d16e63ddfca327h
+|
+java:S2184"HCast one of the operands of this multiplication operation to a "double".b 3389dae361af79b04c9c8e7057f60cc6h
+t
+java:S2184"@Cast one of the operands of this integer division to a "double".b a7e86136543b019d72468ceebf71fb8eh
+]
+java:S1905")Remove this unnecessary cast to "double".b 0feea738f7fbbdda436cafb453a1ac5fh
+w
+java:S1128"CRemove this unused import 'javax.management.RuntimeErrorException'.b a1bea791b9612637c09b13eb6b75265eh

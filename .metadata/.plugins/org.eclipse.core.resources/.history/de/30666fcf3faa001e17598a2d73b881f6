@@ -1,0 +1,36 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package session7;
+
+public class Student {
+	// Attribute: thuộc tính
+	String name;
+	float mark;
+	boolean isRetest;
+	String gender;
+
+	// Method: phương thức
+	public void study() {
+		System.out.print("The student is studying");
+	}
+	
+	public float doExam(String courseName) {
+		System.out.print("The student is doing the exam");
+		return mark;
+	}
+}
+
+// Có thể tạo thêm class trong cùng file
+// Nhưng chỉ có 1 class là public
+class Teacher{
+	boolean isSmoker;
+	int age;
+	String name;
+	float experience;
+	String[] courses; // Array
+}

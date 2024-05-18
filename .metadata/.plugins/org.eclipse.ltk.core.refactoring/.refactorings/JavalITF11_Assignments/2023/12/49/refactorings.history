@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;DemoInputOutput.java&apos; to &apos;JavaITF11/src&apos;&#x0D;&#x0A;- Original project: &apos;JavalITF11_Assignments&apos;&#x0D;&#x0A;- Destination element: &apos;JavaITF11/src&apos;&#x0D;&#x0A;- Original element: &apos;session01.DemoInputOutput.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=JavaITF11/src" element1="/src&lt;session01{DemoInputOutput.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1702055851986" units="1" version="1.0"/>
+</session>

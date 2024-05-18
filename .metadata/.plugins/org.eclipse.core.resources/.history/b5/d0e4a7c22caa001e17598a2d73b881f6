@@ -1,0 +1,38 @@
+/*
+*(C) Copyright 2021 Fresher Academy. All Rights Reserved.
+*
+* @author: Phạm Hoàng Anh
+* @date: Dec 8, 2023
+*/
+
+package session7;
+
+import java.util.Scanner;
+
+public class DemoString {
+
+	public static void main(String[] args) {
+		// Khai báo string
+		
+			// Cách 1 : sử dụng literal
+		String myName = "Lê Sơn Hải";
+		
+			// String có 1 ký tự vẫn dùng cú pháp ""
+		String bloodType = "A";
+		
+			// 'String có 1 ký tự' khác hoàn toàn với '1 ký tự'
+			// String có thể không có ký tự -> String rỗng
+		String location = "";
+				
+			// Cách 2: khai báo thông qua new
+		String myPet = new String("Lion");
+				
+		// Input String
+		Scanner scanner = new Scanner(System.in);
+		System.out.print("Please input your name: ");
+		String name = scanner.nextLine(); // Read a String from keyboard
+
+		System.out.println("Your name is: " + name);
+	}
+
+}

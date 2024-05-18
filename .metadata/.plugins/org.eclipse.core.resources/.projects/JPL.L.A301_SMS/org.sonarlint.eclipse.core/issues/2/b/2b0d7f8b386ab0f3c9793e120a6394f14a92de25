@@ -1,0 +1,7 @@
+
+ƒ
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b fb7527ccfc764faa7d488233c9a88cdah
+S
+java:S69052"Don't use the query "SELECT *".b 4da474e36ed03597e7dd4804dddfbcc7h
+f
+java:S1135N"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch

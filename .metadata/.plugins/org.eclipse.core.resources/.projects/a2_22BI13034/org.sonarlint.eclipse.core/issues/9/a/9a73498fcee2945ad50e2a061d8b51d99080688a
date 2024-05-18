@@ -1,0 +1,43 @@
+
+c
+java:S3740"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+c
+java:S3740l"/Provide the parametrized type for this generic.b 2a29178a57901ddb90f15e2026465103h
+c
+java:S3740t"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+d
+java:S3740ä"/Provide the parametrized type for this generic.b 2a29178a57901ddb90f15e2026465103h
+d
+java:S3740å"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+d
+java:S3740î"/Provide the parametrized type for this generic.b 57dea6f5039281b7fee517fc43bf3110h
+Œ	java:S127Ä"XRefactor the code in order to not assign to this loop counter from within the loop body.b 865c0c0b4ab0e063e5caa3387c1a8741h
+d
+java:S1066È"/Merge this if statement with the enclosing one.b 39c8942e1038872a822c0dc75eedbde3h
+„	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 8d9b5d27f07777615831d06926fd3b6fh
+Q
+java:S1643‘"Use a StringBuilder instead.b eceadc1d40cea061fd5986f2a109ee93h
+Q
+java:S1643É"Use a StringBuilder instead.b f1290186a5d0b1ceab27f4e77c0c5d68h
+x
+java:S2583Ó"CChange this condition so that it does not always evaluate to "true"b ae6d9ef24229de8f1418c1c6d9b6d28ch
+™
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+š
+java:S1149å"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+š
+java:S1149î"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b 57dea6f5039281b7fee517fc43bf3110h
+†
+java:S3776l"RRefactor this method to reduce its Cognitive Complexity from 82 to the 15 allowed.b 89759e1284e2479b991d2669de104942h
+o	java:S125w"<This block of commented-out lines of code should be removed.b 317e8ceac206dfd2af82ccf713648aa6h
+o	java:S125{"<This block of commented-out lines of code should be removed.b f29f471914da14150bb0bb54bc895ddch
+]
+java:S2201¥"(The return value of "trim" must be used.b 9e2cd3a49272eb4863464c187878b93dh
+p	java:S125¶"<This block of commented-out lines of code should be removed.b 8fa20bd5369e6869b62a29b95f97389fh
+ƒ
+java:S2272ö"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.b d0cab90d8d20d57e2f2b9be52f7dd25dh
+o
+java:S1161":Add the "@Override" annotation above this method signatureb 0f6969d7052da9261e31ddb6e88c136eh
+ú
+java:S6541l"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 71 to 64, Complexity from 23 to 14, Nesting Level from 8 to 2, Number of Variables from 15 to 6.b 89759e1284e2479b991d2669de104942h
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.8’”¸¼ø1b 796836c8e8b3ca2801f838e8b92536f3h

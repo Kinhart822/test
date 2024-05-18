@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;JDBCUtils.java&apos; to &apos;fa.training.problem03/src/fa.training.utils&apos;&#x0D;&#x0A;- Original project: &apos;JPL.L.A301_SMS&apos;&#x0D;&#x0A;- Destination element: &apos;fa.training.problem03/src/fa.training.utils&apos;&#x0D;&#x0A;- Original element: &apos;fa.training.common.JDBCUtils.java&apos;" description="Copy compilation unit" destination="=fa.training.problem03/src&lt;fa.training.utils" element1="/src=/optional=/true=/=/maven.pomderived=/true=/&lt;fa.training.common{JDBCUtils.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1715778588194" units="1" version="1.0"/>
+</session>

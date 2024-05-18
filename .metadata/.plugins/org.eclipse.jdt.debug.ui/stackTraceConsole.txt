@@ -1,0 +1,4 @@
+int z;
+		
+		System.out.println("Nhap vao so thu nhat: ");
+		x = input.nextInt()

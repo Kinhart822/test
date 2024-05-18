@@ -1,0 +1,23 @@
+
+Ö	java:S117˙"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 6d377d44254c3b983b17e04173e518fah
+Ö	java:S117˚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b ed3ee5ce9ee15d26b25b857ed8a66078h
+Ö	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b e4042c3c2e7a37e883ee37b6855422fch
+Ö	java:S117˝"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 5841e04fcc35f01dddcb5a2b693d438bh
+Ö	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 8d0577bd49497d23ea2f51b022ac236ch
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 76f170b5ab65570de77bb790c2224681h
+é
+java:S1210ë"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.b 9c6977aa3ce5b94580e3f19b2777d663h
+Ç	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b d9d7bceeccacd7c77573f943a6930dddh
+v
+java:S1126œ"AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h
+Ç	java:S100◊"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b ae6e06f0e0fae4f821c75506a4368eb6h
+v
+java:S1126ÿ"AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h
+Ç	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 59a2400129389338c2a2ad8ede1ea7d2h
+v
+java:S1126·"AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h
+Ç	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 7e390cd48e9c1137a1ea529185ac1e08h
+v
+java:S1126Í"AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h
+Ü
+java:S3457¢"Q%n should be used in place of \n to produce the platform-specific line separator.b f69bef1cd6aa0772cf086ed1c1a1fafbh

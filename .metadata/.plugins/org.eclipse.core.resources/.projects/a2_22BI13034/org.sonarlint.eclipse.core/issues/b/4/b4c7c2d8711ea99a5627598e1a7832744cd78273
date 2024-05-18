@@ -1,0 +1,4 @@
+
+n
+java:S1118":Add a private constructor to hide the implicit public one.b 58840cc813684ae1c5cb61d83a4c974fh
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.8Ý£¹¼ø1b 796836c8e8b3ca2801f838e8b92536f3h

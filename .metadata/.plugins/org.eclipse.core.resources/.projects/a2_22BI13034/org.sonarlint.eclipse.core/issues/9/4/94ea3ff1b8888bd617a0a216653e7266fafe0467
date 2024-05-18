@@ -1,0 +1,10 @@
+
+c
+java:S3740"/Provide the parametrized type for this generic.b 2af99bc28e2be6580a13b1048cde1709h
+ç
+java:S12106"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.b 9c6977aa3ce5b94580e3f19b2777d663h
+á
+java:S2975E"SRemove this "clone" implementation; use a copy constructor or copy factory instead.b d329fd777726c300d7a044e482b967e7h
+|
+java:S1182E"HUse super.clone() to create and seed the cloned instance to be returned.b d329fd777726c300d7a044e482b967e7h
+î	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.8Ö–∏º¯1b 796836c8e8b3ca2801f838e8b92536f3h
